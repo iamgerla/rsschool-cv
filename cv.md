@@ -1,7 +1,7 @@
 ## Valeriia Vasishcheva
 
 
-![profilephoto](/img/me.jpg "Profile photo")
+![image](https://user-images.githubusercontent.com/103499756/171488284-7e9a693f-58f6-498a-bb7f-75690a7936a0.png)
 
 
 ## My contact info
