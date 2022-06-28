@@ -1,0 +1,180 @@
+body{
+    width: 1440px;
+    margin: 0 auto;
+    color: white;
+    font-family: Red Hat Text;
+}
+
+header{
+    overflow: hidden;
+    width: 1440px;
+    height: 90px;
+    background: rgba(242, 120, 92, 0.7);
+    position: fixed;
+}
+
+#logo{
+    font-family: Magra;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding: 120px;
+    width: 30px;
+    height: 30px;
+}
+
+.preview{
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    margin: 0;
+    width: 1440px;
+    height: 765px;
+    background: url(img/backpreview.jpg);
+}
+
+.navigation li{
+display: inline;
+padding: 42px;
+}
+
+.button{
+    text-align: center;
+    background: #0D606F;
+    color:white;
+    border-radius: 10px;
+    border: 1px;
+    width: 103px;
+    height: 41px;
+    box-shadow: 0px 2px 3px #0D606F;
+    font-family: Red Hat Text;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0em;
+}
+
+.section-title{
+font-family: Red Hat Text;
+font-size: 40px;
+font-weight: 500;
+line-height: 53px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(242, 120, 92, 1);
+text-align: center;
+}
+
+.block{
+    background: rgba(255, 255, 255, 0.7);
+    height: 95px;
+    width: 892px;
+    border-radius: 16px;
+    margin-left: 120px;
+    margin-top: 46px;
+    color:  rgba(242, 120, 92, 1);
+    display: flex;
+    align-items: baseline;
+    flex-direction: row;
+}
+.question{
+    
+    font-family: Aleo;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    margin-left: 41px;
+}
+
+.button.prev{
+font-size: 24px;
+line-height: 32px;
+width:228px;
+height:59px;
+margin:18px 18px 18px 341px;
+text-align: center;
+}
+
+h1{
+font-family: Aleo;
+font-size: 80px;
+font-weight: 700;
+text-align: left;
+width: 860px;
+color:rgba(255, 255, 255, 1);
+margin-top: 122px;
+margin-left: 120px;
+}
+
+.prev{
+font-family: Aleo;
+font-size: 20px;
+font-style: italic;
+font-weight: 700;
+text-align: left;
+color:rgba(255, 255, 255, 1);
+margin-top: 30px;
+margin-left: 120px;
+}
+
+
+.stepin{
+    height: 424px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
+
+.step{
+    height: 100px;
+    width: 100px;
+    border-radius: 16px;
+    background: rgba(242, 120, 92, 1);
+}
+
+.step-title{
+font-family: Aleo;
+font-size: 20px;
+font-weight: 400;
+text-align: left;
+color: rgba(13, 96, 111, 1);
+margin-top: 110px;
+}
+
+.destinations{
+height: 1069px;
+}
+
+.japan{
+    background: url('img/japan.jpg') no-repeat top center;
+    height: 800px;
+    width: 800px;
+    left: 860px;
+    top: 0px;
+    border-radius: 16px;
+    padding-top: 46px;
+    margin:0 auto;
+}
+
+.destip{
+    font-family: Red Hat Text;
+    font-size: 32px;
+    font-weight: 500;
+    margin:697px 677px 40px 15px;
+}
+
+.button.dest{
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 32px;
+    height: 59px;
+    width: 228px;
+}
+
+.stories{
+    background: url(img/backpreview.jpg)no-repeat;
+}
